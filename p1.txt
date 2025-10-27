@@ -1,0 +1,7 @@
+En *La red social* (2010), la película se centra principalmente en la creación de Facebook y las disputas legales entre Mark Zuckerberg, Eduardo Saverin y los hermanos Winklevoss. Si pensamos en términos de roles modernos en tecnología:
+
+* **Mark Zuckerberg** sería el **programador principal / desarrollador de software**, porque él escribió gran parte del código inicial de Facebook y creó la plataforma.
+* **Eduardo Saverin** sería más bien **cofundador y responsable financiero/estratégico**, no técnico.
+* **El ingeniero de datos**, en el sentido actual de alguien que se encarga de diseñar bases de datos, pipelines de datos y análisis de información, **no aparece explícitamente como personaje en la película**. La película no muestra a nadie con ese rol técnico específico; los primeros días de Facebook fueron principalmente codificados por Zuckerberg y algunos colaboradores informales.
+
+Si quieres, puedo explicarte qué personaje de la historia real de Facebook más se acercaría al rol de ingeniero de datos según cómo se desarrolló la compañía después de los primeros días. ¿Quieres que haga eso?

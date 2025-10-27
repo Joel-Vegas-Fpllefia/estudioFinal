@@ -1,0 +1,8 @@
+No exactamente. En la película y en la historia real:
+
+* **Eduardo Saverin** era cofundador de Facebook, pero **su rol principal era financiero y de negocios**, no técnico. Él ayudó a financiar los primeros servidores, a conseguir publicidad y a gestionar las finanzas de la compañía.
+* **Mark Zuckerberg** era quien realmente escribía el código y construía la plataforma. En términos modernos, él sería más parecido a un **desarrollador full-stack o ingeniero de software**.
+
+Un **ingeniero de datos**, como lo entendemos hoy, se encarga de estructurar, limpiar y analizar grandes volúmenes de información, diseñar bases de datos eficientes y asegurar que los datos fluyan correctamente para que se puedan usar en análisis o productos. Ninguno de los personajes principales en la película desempeña exactamente ese papel; en los primeros días de Facebook, Zuckerberg mismo manejaba la programación y la base de datos.
+
+Si quieres, puedo explicarte **quién en la historia real de Facebook sí habría sido más parecido a un ingeniero de datos**. Esto aclara bastante la confusión. ¿Quieres que lo haga?
