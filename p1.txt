@@ -6,4 +6,4 @@ En *La red social* (2010), la película se centra principalmente en la creación
 
 Si quieres, puedo explicarte qué personaje de la historia real de Facebook más se acercaría al rol de ingeniero de datos según cómo se desarrolló la compañía después de los primeros días. ¿Quieres que haga eso?
 
-dedes main
+desde la nueva rama y main mediante un diff
